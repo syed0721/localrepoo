@@ -1,0 +1,13 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 1d3f044..7ad21f6 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,6 @@[m
+ <p>Welcome to third localrepoo.</p>[m
+[31m-<p>This is my new feature.(button)</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<<<<<<< HEAD[m
+[32m+[m[32m<p>This is my new feature.(dropdown)</p>[m
+[32m+[m[32m=======[m
+[32m+[m[32m<p>This is my new feature.(button)</p>[m
+[32m+[m[32m>>>>>>> main[m
